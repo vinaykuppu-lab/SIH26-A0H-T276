@@ -5,18 +5,18 @@
   <img src="assets/images/header.png" width=921 />
 </p>
 
-## SIH26-A0H-TXXX
+## SIH26-A0H-T276
 ### Team Details
-#### **Team Name** <<Insert Your Team Name>> <br/>
+#### **Team Name** <<HexaCore>> <br/>
 #### Team Members
-|         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
-|:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |                         |                        |                 |                                 |  
-|    Member 2     |                         |                        |                 |                                 |  
-|    Member 3     |                         |                        |                 |                                 |  
-|    Member 4     |                         |                        |                 |                                 |   
-|    Member 5     |                         |                        |                 |                                 |  
-|    Member 6     |                         |                        |     Female      |                                 |   
+|         Role    |         👤 Name                      |   🎓 Roll Number      |     ⚧️ Gender   |            🏫 Department / Programme                        |
+|:---------------:|:-------------------------------------|:----------------------:|:---------------:|:------------------------------------------------------------:| 
+|   Team Leader   | K Shrivinay                          |CB.EN.U4ECE26225        |    Male         |   Electronics and Communication Engineering (B.Tech ECE)     |  
+|    Member 2     | Gobish R                             |CB.EN.U4ECE26212        |    Male         |   Electronics and Communication Engineering (B.Tech ECE)     |  
+|    Member 3     | Harshikaa SM                         |CB.EN.U4CCE26045        |    Female       |   Computer and Communication Engineering    (B.Tech CCE/ECE) |  
+|    Member 4     | Joshua Jesudas                       |CB.EN.U4ECE26224        |    Male         |   Electronics and Communication Engineering (B.Tech ECE)     |   
+|    Member 5     | Jayanth Varshan Rajeshkumar Lavanya  |CB.EN.U4ECE26223        |    Male         |   Electronics and Communication Engineering (B.Tech ECE)     |  
+|    Member 6     | Apoorva S                            |CB.SC.U4CSE26010        |    Female       |   Computer Science Engineering              (B.Tech CSE)     |   
 
 #### Mentor Details
 
@@ -31,10 +31,10 @@
 
 #### PS#1
 
-* **Problem Statement ID:**
-* **Problem Statement Title:**
-* **Theme / Category:**
-* **Ministry / Organization:**, wherever applicable
+* **Problem Statement ID:*SIH26109*
+* **Problem Statement Title:*"AI-Based Predictive Modelling for Early Forecasting of Bovine Mastitis in Indian Dairy Farms"*
+* **Theme / Category:*Agriculture, FoodTech & Rural Development*
+* **Ministry / Organization:* Ministry of Fisheries, Animal Husbandry & Dairying*, wherever applicable
 
 #### PS#2
 
