@@ -7,7 +7,7 @@
 
 ## SIH26-A0H-T276
 ### Team Details
-#### **Team Name** <<HexaCore>> <br/>
+#### **Team Name** <<HexaCore>> <HexaCore>
 #### Team Members
 |         Role    |         👤 Name                      |   🎓 Roll Number      |     ⚧️ Gender   |            🏫 Department / Programme                        |
 |:---------------:|:-------------------------------------|:----------------------:|:---------------:|:------------------------------------------------------------:| 
