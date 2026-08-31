@@ -7,7 +7,7 @@
 
 ## SIH26-A0H-T276
 ### Team Details
-#### **Team Name HexaCore** <<HexaCore>> <HexaCore>
+#### **Team Name *HexaCore* <<HexaCore>> <HexaCore>
 #### Team Members
 |         Role    |         👤 Name                      |   🎓 Roll Number      |     ⚧️ Gender   |            🏫 Department / Programme                        |
 |:---------------:|:-------------------------------------|:----------------------:|:---------------:|:------------------------------------------------------------:| 
@@ -38,7 +38,7 @@
 
 #### PS#2
 
-* **Problem Statement ID:**
-* **Problem Statement Title:**
-* **Theme / Category:**
-* **Ministry / Organization:**, wherever applicable
+* **Problem Statement ID:*SIH26008*
+* **Problem Statement Title:*Belt Joint Rupture and Conveyor Belt Damages in Iron Ore Mining Industry: Intelligent Monitoring and Prediction of Conveyor Belt Joint Rupture and Damages in Iron Ore Mining Industry*
+* **Theme / Category:*Smart Automation*
+* **Ministry / Organization:*Ministry of Steel*, wherever applicable
